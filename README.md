@@ -12,3 +12,7 @@ for Day 1 of DevOps training.
 - Branching strategies
 - Pull Requests
 - Azure DevOps
+
+## Application
+
+A simple Python application that prints Hello DevOps.
